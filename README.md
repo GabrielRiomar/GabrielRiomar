@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning: Python e JavaScript
+- 🌱 I’m currently learning: HTML, CSS, JavaScript and Laravel
 <div>
   <a href="https://github.com/GabrielRiomar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRiomar&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
