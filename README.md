@@ -1,4 +1,10 @@
+### Hello there, I'm Gabriel Riomar
 - 🌱 I’m currently learning: HTML, CSS, JavaScript and Laravel
+
+### Current Knowledge
+- Front-end: `HTML5`, `CSS3` and `Laravel`
+- Back-end: `Node.js`
+- Version code control: `Git`, `Github` and `Gitlab`
 <div>
   <a href="https://github.com/GabrielRiomar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRiomar&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
