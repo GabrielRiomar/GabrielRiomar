@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning: HTML, CSS, JavaScript and Laravel
 
 ### Current Knowledge
-- Front-end: `HTML5`, `CSS3` and `Laravel`
+- Front-end: `HTML5`, `CSS3`, `Reactjs` and `Laravel`
 - Back-end: `Node.js`
 - Version code control: `Git`, `Github` and `Gitlab`
 <div>
